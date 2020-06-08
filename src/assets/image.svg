@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="16.5" viewBox="0 0 17.121 16.5">
+  <g id="image-02" transform="translate(0.561 0.25)">
+    <path id="Shape" d="M0,6,4,2,7,5l4-5,4,4" transform="translate(0.5 6.5)" fill="none" stroke="#657786" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Shape-2" data-name="Shape" d="M14,15H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H14a1,1,0,0,1,1,1V14A1,1,0,0,1,14,15Z" transform="translate(0.5 0.5)" fill="none" stroke="#657786" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle id="Oval" cx="1.5" cy="1.5" r="1.5" transform="translate(5 3)" fill="#657786"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="chat-round" transform="translate(0 0)">
+    <path id="Shape" d="M15,6.5C15,2.91,11.642,0,7.5,0S0,2.91,0,6.5,3.358,13,7.5,13a8.652,8.652,0,0,0,1.532-.137L13,15V10.909A6.03,6.03,0,0,0,15,6.5Z" transform="translate(0.5 0.5)" fill="none" stroke="#657786" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

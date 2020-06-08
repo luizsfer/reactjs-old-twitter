@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="16.818" viewBox="0 0 17.5 16.818">
+  <g id="child" transform="translate(0.75 0.795)">
+    <circle id="Oval" cx="1.091" cy="1.091" r="1.091" transform="translate(4.364 8.727)" fill="#657786"/>
+    <circle id="Oval-2" data-name="Oval" cx="1.091" cy="1.091" r="1.091" transform="translate(9.455 8.727)" fill="#657786"/>
+    <path id="Shape" d="M16,6.545A2.177,2.177,0,0,0,14.178,4.4a6.537,6.537,0,0,0-12.356,0,2.174,2.174,0,0,0,0,4.291,6.537,6.537,0,0,0,12.356,0A2.177,2.177,0,0,0,16,6.545Z" transform="translate(0 2.182)" fill="none" stroke="#667580" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Shape-2" data-name="Shape" d="M.016,4.364C-.166,1.758,1.228.151,3.652,0" transform="translate(7.984)" fill="none" stroke="#667580" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

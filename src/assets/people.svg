@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16">
+  <g id="single-02" transform="translate(0)">
+    <path id="Shape" d="M8,0H5A5,5,0,0,0,0,5H13A5,5,0,0,0,8,0Z" transform="translate(0.5 10.5)" fill="none" stroke="#657786" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Oval" cx="3.5" cy="3.5" r="3.5" stroke-width="1" transform="translate(3.5 0.5)" stroke="#657786" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+</svg>
